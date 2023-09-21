@@ -1,0 +1,1 @@
+# Computer vision course tasks in HSE University.
