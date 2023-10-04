@@ -1,1 +1,1 @@
-# Computer vision course tasks in HSE University.
+# Analysis of various computer vision models
