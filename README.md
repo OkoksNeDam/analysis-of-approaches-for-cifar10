@@ -1,1 +1,1 @@
-# Analysis of various computer vision models
+# Analysis of various approaches for classifying images from the cifar10 dataset
